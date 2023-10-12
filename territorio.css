@@ -1,0 +1,70 @@
+body{
+	margin:0px;
+	padding: 0px;
+	background:url("image/pintura.jfif")no-repeat;
+	webkit-background-size:cover;
+	background-size:cover;
+	
+}
+
+#box_externo{
+width: 1000px;
+ height: 3000px;
+ margin: 0 auto;
+ background-color: #848484;
+}
+
+h1
+{
+	background-color: black;
+	text-align: center;
+	font-family: Broadway;
+	font-size: 60px ;
+	color: #ffffff;
+}
+
+h2
+{
+	text-align: center;;
+
+}
+.corpo{
+width: 100%;
+height: 3000px;
+margin: auto;
+}
+
+.paragraf01{
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size: 18px;
+}
+
+.narracao{
+	float: left;
+	width: 500px;
+	margin-top: -20px;
+	margin-left: 430px;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.desenho{
+	text-align: center;
+}
+
+	
+
+
+
+
+#rodape{
+width: 100%;
+height: 500px;
+border-top: 2px solid #333;
+ }
+
+.rodape{
+text-align: center;
+font-size: 16px; color:#333;
+}
